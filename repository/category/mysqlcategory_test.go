@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/bxcodec/go-clean-arch/models"
-	categoryRepo "github.com/bxcodec/go-clean-arch/repository/mysql/category"
+	categoryRepo "github.com/bxcodec/go-clean-arch/repository/category"
 	"github.com/stretchr/testify/assert"
 	sqlmock "gopkg.in/DATA-DOG/go-sqlmock.v1"
 )
